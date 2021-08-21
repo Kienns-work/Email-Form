@@ -195,5 +195,14 @@ label {
 	.order {
 		padding: 3rem 3rem;
 	}
+	.price-list {
+		justify-content:space-between;
+	}
+	.price-list .price {
+		width:none;
+	}
+	.price-list .list {
+		width:none;
+	}
 	
 }
