@@ -197,6 +197,7 @@ label {
 	}
 	.price-list {
 		justify-content:space-between;
+		padding:0;
 	}
 	.price-list .price {
 		width:none;
