@@ -189,11 +189,8 @@ label {
 
 @media (max-width: 375px){
 	
-	h1 {
-		font-size: 7rem;
-	}
-	h2 {
-		font-size: 3rem;
+	html {
+		font-size: 23%;
 	}
 	
 }
