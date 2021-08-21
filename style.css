@@ -192,5 +192,8 @@ label {
 	html {
 		font-size: 22%;
 	}
+	.order {
+		padding: 3rem 3rem;
+	}
 	
 }
