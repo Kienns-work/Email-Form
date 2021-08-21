@@ -179,7 +179,7 @@ label {
 	h1 {
 		font-size: 8rem;
 	}
-	h2 {
+	.heading h2 {
 		font-size: 4rem;
 	}
 	.fz-3 {
