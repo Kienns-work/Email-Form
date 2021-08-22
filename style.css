@@ -198,7 +198,8 @@ label {
 	.price-list {
 		justify-content:space-around;
 		padding:0;
-		padding-top:3rem;
+		padding-top:2rem;
+		margin-bottom:3rem;
 	}
 	.price-list .price {
 		width:auto;
@@ -213,10 +214,13 @@ label {
 		margin-bottom:3rem;
 	}
 	.details {
-		padding-bottom:9rem;
+		padding-bottom:8rem;
+	}
+	.contact {
+		margin-bottom:3rem;
 	}
 	.conclusion {
-		margin-bottom:8rem;
+		margin-bottom:5rem;
 	}
 	
 }
