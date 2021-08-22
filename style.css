@@ -196,14 +196,14 @@ label {
 		padding: 3rem 3rem;
 	}
 	.price-list {
-		justify-content:space-between;
+		justify-content:space-around;
 		padding:0;
 	}
 	.price-list .price {
-		width:none;
+		width:auto;
 	}
 	.price-list .list {
-		width:none;
+		width:auto;
 	}
 	
 }
