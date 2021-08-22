@@ -205,5 +205,14 @@ label {
 	.price-list .list {
 		width:auto;
 	}
+	.information {
+		margin-bottom:5rem;
+	}
+	.shipment h3 {
+		margin-bottom:3rem;
+	}
+	details {
+		padding-bottom:9rem;
+	}
 	
 }
