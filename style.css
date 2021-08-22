@@ -198,6 +198,7 @@ label {
 	.price-list {
 		justify-content:space-around;
 		padding:0;
+		padding-top:3rem;
 	}
 	.price-list .price {
 		width:auto;
